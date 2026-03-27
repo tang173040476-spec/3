@@ -66,7 +66,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "multichannelsignal" ],
 					"patching_rect" : [ 977.0, 598.0, 60.0, 22.0 ],
-					"text" : "mc.*~ 0.1"
+					"text" : "mc.*~ 0.18"
 				}
 
 			}
@@ -208,7 +208,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "multichannelsignal" ],
 					"patching_rect" : [ 888.0, 336.0, 56.0, 22.0 ],
-					"text" : "mc.saw~"
+					"text" : "mc.tri~"
 				}
 
 			}
@@ -232,7 +232,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "multichannelsignal" ],
 					"patching_rect" : [ 888.0, 251.0, 69.0, 22.0 ],
-					"text" : "mc.+~ 48.5"
+					"text" : "mc.+~ 72."
 				}
 
 			}
