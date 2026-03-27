@@ -284,7 +284,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 1388.0, 237.0, 40.0, 22.0 ],
-					"text" : "*~ 0.7"
+					"text" : "*~ 0.55"
 				}
 
 			}
@@ -308,7 +308,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 1294.5, 237.0, 40.0, 22.0 ],
-					"text" : "*~ 0.7"
+					"text" : "*~ 0.55"
 				}
 
 			}
@@ -518,7 +518,7 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "signal", "signal" ],
 									"patching_rect" : [ 920.0, 786.0, 244.0, 22.0 ],
-									"text" : "abl.device.echo~ @feedback 0.9 @mix 0.25"
+									"text" : "abl.device.echo~ @feedback 0.82 @mix 0.55"
 								}
 
 							}
@@ -530,7 +530,7 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "signal", "signal" ],
 									"patching_rect" : [ 663.0, 786.0, 235.0, 22.0 ],
-									"text" : "abl.device.reverb~ @decay 0.8 @mix 0.25"
+									"text" : "abl.device.reverb~ @decay 0.98 @mix 0.65"
 								}
 
 							}
