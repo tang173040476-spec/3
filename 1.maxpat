@@ -102,7 +102,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "signal" ],
 					"patching_rect" : [ 1145.0, 802.0, 244.0, 22.0 ],
-					"text" : "abl.device.echo~ @feedback 0.9 @mix 0.25"
+					"text" : "abl.device.echo~ @feedback 0.9 @mix 0.55"
 				}
 
 			}
@@ -124,7 +124,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "signal" ],
 					"patching_rect" : [ 888.0, 802.0, 235.0, 22.0 ],
-					"text" : "abl.device.reverb~ @decay 0.8 @mix 0.25"
+					"text" : "abl.device.reverb~ @decay 0.8 @mix 0.65"
 				}
 
 			}
